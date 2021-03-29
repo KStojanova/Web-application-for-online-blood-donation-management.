@@ -1,0 +1,215 @@
+/* Navbar */
+.navbar-default{
+	margin-bottom: 10;
+}
+
+.navbar-brand{
+	padding: 10;
+}
+
+.navbar-brand>img{
+		height: auto;
+		width: auto;
+		max-height: 52px;
+		max-width: 250px;
+		margin-top: -1em;
+		padding-top: 0em;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color:#ed1b24;
+	font-weight: bold;
+	transition:all ease-in-out 0.3s;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li.current>a{
+	color:#b5131a;
+} 
+
+footer {
+	background:#ed1b24	;
+	background: -webkit-linear-gradient(59deg, #ed1b24, #16222A);
+	background: linear-gradient(59deg,#ed1b24, #16222A);
+	color: white;
+	margin-top: 150px;
+  }
+  
+  footer a {
+	color: #fff;
+	font-size: 14px;
+	transition-duration: 0.2s;
+  }
+  
+  footer a:hover {
+	color: #FA944B;
+	text-decoration: none;
+  }
+  
+  .copy {
+	font-size: 12px;
+	padding: 10px;
+	border-top: 1px solid #FFFFFF;
+  }
+  
+  .footer-middle {
+	padding-top: 0em;
+	color: white;
+  }
+  
+  .mainfooter h4:hover{
+	  color: black;
+  }
+  /*SOCİAL İCONS*/
+  
+  /* footer social icons */
+  
+  ul.social-network {
+	list-style: none;
+	display: inline;
+	margin-left: 0 !important;
+	padding: 0;
+  }
+  
+  ul.social-network li {
+	display: inline;
+	margin: 0 5px;
+  }
+  
+  
+  /* footer social icons */
+  
+  .social-network a.icoFacebook:hover {
+	background-color: #3B5998;
+  }
+  
+  .social-network a.icoInstagram:hover {
+	background-color: red;
+  }
+  
+  .social-network a.icoFacebook:hover i,
+  .social-network a.icoInstagram:hover i {
+	color: #fff;
+  }
+  
+  .social-network a.socialIcon:hover,
+  .socialHoverClass {
+	color: #44BCDD;
+  }
+  
+  .social-circle li a {
+	display: inline-block;
+	position: relative;
+	margin: 0 auto 0 auto;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	text-align: center;
+	width: 30px;
+	height: 30px;
+	font-size: 15px;
+  }
+  
+  .social-circle li i {
+	margin: 0;
+	line-height: 30px;
+	text-align: center;
+  }
+  
+  .social-circle li a:hover i,
+  .triggeredHover {
+	-moz-transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-ms--transform: rotate(360deg);
+	transform: rotate(360deg);
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	transition: all 0.2s;
+  }
+  
+  .social-circle i {
+	color: #595959;
+	-webkit-transition: all 0.8s;
+	-moz-transition: all 0.8s;
+	-o-transition: all 0.8s;
+	-ms-transition: all 0.8s;
+	transition: all 0.8s;
+  }
+  
+  .social-network a {
+	background-color: #F9F9F9;
+  }
+  p {
+    margin: 5px;
+	padding: 10px;
+	color: black;
+}
+
+h1{
+	margin-left: 30px;
+	color:red;
+	font: bold;
+}
+h4{
+	margin-left: 30px;
+	color: red;
+	font: bold;
+}
+  h5{
+	margin-left: 30px;
+	color: red;
+	font: bold;
+}
+
+
+.counter{
+	margin-top: 70px;
+	padding-top: 10px;
+	padding-bottom: 500;
+	background-color:whitesmoke;
+
+}
+.main-description{
+	color: blue;
+	padding-left: 13px;
+	font-size: 32px;
+	font-weight: bolder;
+	font-style: initial;
+	display: flex;
+}
+.seconds{
+	color:red;
+	font-size:150px ;
+	font-weight: bolder;
+	float:right;	
+}
+.counter>p{
+	color: #16222A;
+	font-weight: bold;
+	padding-top: 20px;
+}
+.cards{
+	margin-top: 50px;
+	margin-left: 20px;
+}
+.proba{
+	background-color:whitesmoke;
+	margin-top: 100;
+	margin-left:100;
+}
+.termini{
+margin-top: 30px;
+margin-left:70px;
+}
+.plasma{
+	margin-top: 30px;
+	margin-left:70px;
+}
+
+.main-content {
+    min-height: 280px;
+}
+.dropdown-menu>li>a {
+	color: #ed1b24 !important;
+}
